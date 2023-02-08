@@ -40,7 +40,7 @@ My research projects mainly focus on computer vision, machine learning, video en
 </table>
 
 
-## Patents
+## Patents test
 <table>
   <tr>
     <td><img align="left" width="320" height="200" src="data/paper_figure/patent_1.png"></td>
