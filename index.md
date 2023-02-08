@@ -79,7 +79,7 @@ My research projects mainly focus on computer vision, machine learning, video en
     <td>
       <p><b>一种视频调色方法、媒体数据处理方法、设备及存储介质</b></p>
       <p><b>欧阳雯琪</b></p>
-      <p>CN Patent 113,497,954 A, 2022.</p>
+      <p>CN Patent 113,497,954 A, 2021.</p>
     </td>
   </tr>
 </table>
