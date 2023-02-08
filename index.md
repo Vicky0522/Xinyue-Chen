@@ -1,6 +1,6 @@
 <img align="left" width="300" height="400" src="data/my_photo.jpg">
 
-**Email:** vinkeyoy[at]gmail.com
+**Email:** vinkeyoy@gmail.com
 
 **Links:** [[Google Scholar](https://scholar.google.com/citations?user=pYeM5JUAAAAJ&hl=zh-CN)] [[GitHub](https://github.com/Vicky0522)]
 
