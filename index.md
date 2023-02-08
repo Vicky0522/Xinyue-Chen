@@ -8,11 +8,11 @@
 
 
 ## About me
-I am Wenqi Ouyang, a senior research engineer at Damo Research, Alibaba Group.
+I am a senior research engineer at Damo Research, Alibaba Group.
 
 Prior to joining Alibaba, I received a M.Sc. degree in the department of computer science and technology from Tsinghua University, at where I was advised by [Kun Xu](https://cg.cs.tsinghua.edu.cn/people/~kun/). I received my B.Sc. from the department of fundamental physics and mathematics in Tsinghua University.
 
-My research projects mainly focus on computer vision, machine learning, video enhancement and image editing.
+My research interests include deep learning, computer vision, image and video analysis and enhancement, as well as natural language processing and its applications in multimedia analysis. 
 
 </br >
 
