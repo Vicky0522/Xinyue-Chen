@@ -1,36 +1,53 @@
-<img align="right" width="300" height="400" src="papers-figures/IMG_20210529_215508.jpg">
+<img align="left" width="300" height="400" src="data/my_photo.jpg">
 
-#Pronouns: she, her, hers#
+**Email:** vinkeyoy[at]gmail.com
 
-**Email:** xinyuevikchen[at]eecs.berkeley.edu
-
-**Links:** [[Google Scholar](https://scholar.google.com/citations?pli=1&authuser=1&user=s67FB6cAAAAJ)] [[GitHub](https://github.com/lanyavik)]
+**Links:** [[Google Scholar](https://scholar.google.com/citations?user=pYeM5JUAAAAJ&hl=zh-CN)] [[GitHub](https://github.com/Vicky0522)]
 
 **Curriculum Vitae:** [updating] .
 
 
 ## About me
+I am Wenqi Ouyang, a senior research engineer at Damo Research, Alibaba Group.
 
-Hi! I am Xinyue Chen, a first-year PhD student at [UC Berkeley](https://bair.berkeley.edu/) working with Prof. [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/) and Prof. [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/). 
-During my undergraduate studies, I was fortunate to be advised by Prof. [Keith Ross](https://sites.google.com/nyu.edu/keithross/) of NYU and Prof. [Xiaolong Wang](https://xiaolonw.github.io/) of UCSD.
-My current research is on Reinforcement Learning and its applications. I am also broadly interested in topics like Representation Learning, Vision and Robotics.
+Prior to joining Alibaba, I received a M.Sc. degree in the department of computer science and technology from Tsinghua University, at where I was advised by [Kun Xu](https://cg.cs.tsinghua.edu.cn/people/~kun/). I received my B.Sc. from the department of fundamental physics and mathematics in Tsinghua University.
 
+My research projects mainly focus on computer vision, machine learning, video enhancement and image editing.
 
 
 ## Education
-* B. Sc. in Computer Science, New York University Shanghai, September 2018 ~ June 2022. [Graduated with Dean's Award in Computer Science, Data Science, and Engineering (top-1 honor in the department)]
-* Ph. D. in Computer Science, University of California, Berkeley. August 2022 ~ Present.
+* B. Sc. in Fundamental Physics and Mathematics, Tsinghua University, Beijing. September 2012 ~ July 2016.
+* M. Sc. in Computer Science and Technology, Tsinghua University, Beijing. September 2016 ~ July 2019.
 
+## Working Experience
+* Research Intern in ByteDance AI Lab, Beijing. July 2017 ~ Septempber 2017.
+* Research Engineer in Damo Research, Alibaba Group, Beijing. July 2019 ~ Present.
 
+## Papers
+<img align="left" width="480" height="270" src="data/paper_figure/ddcolor.png">
+**DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders**
+Xiaoyang Kang, Tao Yang, **Wenqi Ouyang**, Peiran Ren, Lingzhi Li, Xuansong Xie.
+Submitted, 2022.
+[arXiv](https://arxiv.org/abs/2212.11613)
 
-## Publications
-* [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982). **Xinyue Chen**\*, Che Wang\*, Zijian Zhou\*, Keith Ross. International Conference on Learning Representations (ICLR), 2021. 【Acceptance Rate: 28.7%】
-* [BAIL: Best-Action Imitation Learning for Batch Deep Reinforcement Learning](https://arxiv.org/abs/1910.12179). **Xinyue Chen**, Zijian Zhou, Zheng Wang, Che Wang, Yanqiu Wu, Keith Ross. Neural Information Processing Systems (NeurIPS), 2020. 【Acceptance Rate: 20.1%】
-* [Aggressive Q-Learning with Ensembles: Achieving Both High Sample Efficiency and High Asymptotic Performance](https://arxiv.org/abs/2111.09159). Yanqiu Wu, **Xinyue Chen**, Che Wang, Yiming Zhang, Zijian Zhou, Keith W. Ross. Submitted.
+## Patents
+**图像、视频的调色方法、系统、设备及存储介质**
+**欧阳雯琪**, 杨涛
+CN Patent 114,549,674 A, 2022.
 
+**视频处理方法及装置**
+林宪晖、**欧阳雯琪**、高占宁、任沛然
+CN Patent 114,302,175 A, 2022.
 
+**视频处理方法及装置**
+林宪辉、高占宁、**欧阳雯琪**、杨涛、任沛然、马菲莹、谢宣松、張磊
+CN Patent 114,286,126 A, 2022.
 
-## Services
-* Reviewer for NeurIPS 2021, ICLR 2022.
-* Learning assistant / Teaching assistant of NYU Shanghai, Calculus (Fall 2020).
-* Volunteer for Shanghai Sunshine Homeland Healing Home (August 2018), Renji Hospital (Summer 2016 and 2017), Shanghai Museum of Arts and Crafts (Spring 2017).
+**图像处理模型训练方法及装置**
+郑全龙、曾辉、**欧阳雯琪**
+CN Patent 114,092,756 A, 2022.
+
+**一种视频调色方法、媒体数据处理方法、设备及存储介质**
+**欧阳雯琪**
+CN Patent 113,497,954 A, 2022.
+
