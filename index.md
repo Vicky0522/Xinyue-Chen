@@ -14,9 +14,9 @@ Prior to joining Alibaba, I received a M.Sc. degree in the department of compute
 
 My research projects mainly focus on computer vision, machine learning, video enhancement and image editing.
 
-  
-  
-  
+   
+   
+   
 
 ## Education
 * B. Sc. in Fundamental Physics and Mathematics, Tsinghua University, Beijing. September 2012 ~ July 2016.
