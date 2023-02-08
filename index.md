@@ -14,6 +14,7 @@ Prior to joining Alibaba, I received a M.Sc. degree in the department of compute
 
 My research projects mainly focus on computer vision, machine learning, video enhancement and image editing.
 
+---
 
 ## Education
 * B. Sc. in Fundamental Physics and Mathematics, Tsinghua University, Beijing. September 2012 ~ July 2016.
@@ -29,6 +30,8 @@ My research projects mainly focus on computer vision, machine learning, video en
 Xiaoyang Kang, Tao Yang, **Wenqi Ouyang**, Peiran Ren, Lingzhi Li, Xuansong Xie.
 Submitted, 2022.
 [arXiv](https://arxiv.org/abs/2212.11613)
+
+---
 
 ## Patents
 **图像、视频的调色方法、系统、设备及存储介质**
