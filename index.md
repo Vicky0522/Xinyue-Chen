@@ -43,15 +43,13 @@ My research projects mainly focus on computer vision, machine learning, video en
 ## Patents
 <table>
   <tr>
-    <td><img align="left" width="360" height="200" src="data/paper_figure/patent_1.png"></td>
+    <td><img align="left" width="320" height="200" src="data/paper_figure/patent_1.png"></td>
     <td>
       <p>**图像、视频的调色方法、系统、设备及存储介质**</p>
       <p>**欧阳雯琪**, 杨涛</p>
       <p>CN Patent 114,549,674 A, 2022.</p>
     </td>
   </tr>
-</table>
-<table>
   <tr>
     <td><img align="left" width="360" height="200" src="data/paper_figure/patent_2.png"></td>
     <td>
@@ -60,8 +58,6 @@ My research projects mainly focus on computer vision, machine learning, video en
       <p>CN Patent 114,302,175 A, 2022.</p>
     </td>
   </tr>
-</table>
-<table>
   <tr>
     <td><img align="left" width="360" height="200" src="data/paper_figure/patent_3.png"></td>
     <td>
@@ -70,8 +66,6 @@ My research projects mainly focus on computer vision, machine learning, video en
       <p>CN Patent 114,286,126 A, 2022.</p>
     </td>
   </tr>
-</table>
-<table>
   <tr>
     <td><img align="left" width="360" height="200" src="data/paper_figure/patent_4.png"></td>
     <td>
@@ -80,8 +74,6 @@ My research projects mainly focus on computer vision, machine learning, video en
       <p>CN Patent 114,092,756 A, 2022.</p>
     </td>
   </tr>
-</table>
-<table>
   <tr>
     <td><img align="left" width="360" height="200" src="data/paper_figure/patent_5.png"></td>
     <td>
