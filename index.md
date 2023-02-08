@@ -25,13 +25,17 @@ My research projects mainly focus on computer vision, machine learning, video en
 * Research Engineer in Damo Research, Alibaba Group, Beijing. July 2019 ~ Present.
 
 ## Papers
-<div>
-<img align="left" width="240" height="135" src="data/paper_figure/ddcolor.png">
-**DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders**
-Xiaoyang Kang, Tao Yang, **Wenqi Ouyang**, Peiran Ren, Lingzhi Li, Xuansong Xie.
-Submitted, 2022.
-[arXiv](https://arxiv.org/abs/2212.11613)
-</div>
+<table>
+  <tr>
+    <td><img align="left" width="240" height="135" src="data/paper_figure/ddcolor.png"></td>
+    <td>
+      **DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders**
+      Xiaoyang Kang, Tao Yang, **Wenqi Ouyang**, Peiran Ren, Lingzhi Li, Xuansong Xie.
+      Submitted, 2022.
+      [arXiv](https://arxiv.org/abs/2212.11613)
+    </td>
+  </tr>
+</table>
 
 ---
 
