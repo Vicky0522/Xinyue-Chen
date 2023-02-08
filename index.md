@@ -39,36 +39,56 @@ My research projects mainly focus on computer vision, machine learning, video en
   </tr>
 </table>
 
----
 
 ## Patents
-**图像、视频的调色方法、系统、设备及存储介质**
-
-**欧阳雯琪**, 杨涛
-
-CN Patent 114,549,674 A, 2022.
-
-**视频处理方法及装置**
-
-林宪晖、**欧阳雯琪**、高占宁、任沛然
-
-CN Patent 114,302,175 A, 2022.
-
-**视频处理方法及装置**
-
-林宪辉、高占宁、**欧阳雯琪**、杨涛、任沛然、马菲莹、谢宣松、張磊
-
-CN Patent 114,286,126 A, 2022.
-
-**图像处理模型训练方法及装置**
-
-郑全龙、曾辉、**欧阳雯琪**
-
-CN Patent 114,092,756 A, 2022.
-
-**一种视频调色方法、媒体数据处理方法、设备及存储介质**
-
-**欧阳雯琪**
-
-CN Patent 113,497,954 A, 2022.
+<table>
+  <tr>
+    <td><img align="left" width="360" height="200" src="data/paper_figure/patent_1.png"></td>
+    <td>
+      <p>**图像、视频的调色方法、系统、设备及存储介质**</p>
+      <p>**欧阳雯琪**, 杨涛</p>
+      <p>CN Patent 114,549,674 A, 2022.</p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img align="left" width="360" height="200" src="data/paper_figure/patent_2.png"></td>
+    <td>
+      <p>**视频处理方法及装置**</p>
+      <p>林宪晖、**欧阳雯琪**、高占宁、任沛然</p>
+      <p>CN Patent 114,302,175 A, 2022.</p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img align="left" width="360" height="200" src="data/paper_figure/patent_3.png"></td>
+    <td>
+      <p>**视频处理方法及装置**</p>
+      <p>林宪辉、高占宁、**欧阳雯琪**、杨涛、任沛然、马菲莹、谢宣松、張磊</p>
+      <p>CN Patent 114,286,126 A, 2022.</p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img align="left" width="360" height="200" src="data/paper_figure/patent_4.png"></td>
+    <td>
+      <p>**图像处理模型训练方法及装置**</p>
+      <p>郑全龙、曾辉、**欧阳雯琪**</p>
+      <p>CN Patent 114,092,756 A, 2022.</p>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img align="left" width="360" height="200" src="data/paper_figure/patent_5.png"></td>
+    <td>
+      <p>**一种视频调色方法、媒体数据处理方法、设备及存储介质**</p>
+      <p>**欧阳雯琪**</p>
+      <p>CN Patent 113,497,954 A, 2022.</p>
+    </td>
+  </tr>
+</table>
 
