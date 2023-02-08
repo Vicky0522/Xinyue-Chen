@@ -27,7 +27,7 @@ My research projects mainly focus on computer vision, machine learning, video en
 ## Papers
 <table>
   <tr>
-    <td><img align="left" width="240" height="135" src="data/paper_figure/ddcolor.png"></td>
+    <td><img align="left" width="360" height="200" src="data/paper_figure/ddcolor.png"></td>
     <td>
       <p>**DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders**</p>
       <p>Xiaoyang Kang, Tao Yang, **Wenqi Ouyang**, Peiran Ren, Lingzhi Li, Xuansong Xie.</p>
