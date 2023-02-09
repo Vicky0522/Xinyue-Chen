@@ -24,6 +24,18 @@ My research interests include deep learning, computer vision, image and video an
 * Research Intern in ByteDance AI Lab, Beijing. July 2017 ~ Septempber 2017.
 * Research Engineer in Damo Research, Alibaba Group, Beijing. July 2019 ~ Present.
 
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  td, th {
+    border: 0;
+    padding: 8px;
+    text-align: left;
+  }
+</style>
+
 ## Papers
 <table>
   <tr>
