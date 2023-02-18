@@ -56,7 +56,7 @@ My research interests include deep learning, computer vision, image and video an
 <ul class="publication-list">
   <li>
     <div class="publication-figure">
-      <img align="left" src="data/paper_figure/ddcolor.png">
+      <img align="left" width="360" height="200" src="data/paper_figure/ddcolor.png">
     </div>
     <div>
       <b>DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders</b><br>
