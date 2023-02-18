@@ -38,8 +38,8 @@ My research interests include deep learning, computer vision, image and video an
   }
 
   .publication-figure {
-    width: 240px;
-    height: 140px;
+    width: 360px;
+    height: 200px;
     background-color: #ddd;
     border-radius: 50%;
     text-align: center;
