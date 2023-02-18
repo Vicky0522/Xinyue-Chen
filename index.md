@@ -57,7 +57,7 @@ My research interests include deep learning, computer vision, image and video an
 <ul class="publication-list">
   <li>
     <div class="publication-figure">
-      <span><img align="left" width="240" height="140" src="data/paper_figure/ddcolor.png"></span>
+      <span><img align="left" src="data/paper_figure/ddcolor.png"></span>
     </div>
     <div>
       <b>DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders</b><br>
@@ -73,7 +73,7 @@ My research interests include deep learning, computer vision, image and video an
 <ul class="publication-list">
   <li>
     <div class="publication-figure">
-      <span><img align="left" width="240" height="140" src="data/paper_figure/patent_1.png"></span>
+      <span><img align="left" width="360" height="200" src="data/paper_figure/patent_1.png"></span>
     </div>
     <div>
       <b>图像、视频的调色方法、系统、设备及存储介质</b><br>
@@ -83,7 +83,7 @@ My research interests include deep learning, computer vision, image and video an
   </li>
   <li>
     <div class="publication-figure">
-      <span><img align="left" width="240" height="140" src="data/paper_figure/patent_2.png"></span>
+      <span><img align="left" width="360" height="200" src="data/paper_figure/patent_2.png"></span>
     </div>
     <div>
       <b>视频处理方法及装置</b><br>
@@ -93,7 +93,7 @@ My research interests include deep learning, computer vision, image and video an
   </li>
   <li>
     <div class="publication-figure">
-      <span><img align="left" width="240" height="140" src="data/paper_figure/patent_3.png"></span>
+      <span><img align="left" width="360" height="200" src="data/paper_figure/patent_3.png"></span>
     </div>
     <div>
       <b>视频处理方法及装置</b><br>
@@ -103,7 +103,7 @@ My research interests include deep learning, computer vision, image and video an
   </li>
   <li>
     <div class="publication-figure">
-      <span><img align="left" width="240" height="140" src="data/paper_figure/patent_4.png"></span>
+      <span><img align="left" width="360" height="200" src="data/paper_figure/patent_4.png"></span>
     </div>
     <div>
       <b>图像处理模型训练方法及装置</b><br>
@@ -113,7 +113,7 @@ My research interests include deep learning, computer vision, image and video an
   </li>
   <li>
     <div class="publication-figure">
-      <span><img align="left" width="240" height="140" src="data/paper_figure/patent_5.png"></span>
+      <span><img align="left" width="360" height="200" src="data/paper_figure/patent_5.png"></span>
     </div>
     <div>
       <b>一种视频调色方法、媒体数据处理方法、设备及存储介质</b><br>
