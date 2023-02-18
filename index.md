@@ -14,7 +14,7 @@ Prior to joining Alibaba, I received a M.Sc. degree in the department of compute
 
 My research interests include deep learning, computer vision, image and video analysis and enhancement, as well as natural language processing and its applications in multimedia analysis. 
 
-</br >
+<br>
 
 ## Education
 * B. Sc. in Fundamental Physics and Mathematics, Tsinghua University, Beijing. September 2012 ~ July 2016.
@@ -34,7 +34,7 @@ My research interests include deep learning, computer vision, image and video an
     display: flex;
     align-items: center;
     padding: 10px 0;
-    border-bottom: 1px solid #ddd;
+    border-bottom: none;
   }
 
   .publication-figure {
