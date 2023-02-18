@@ -25,74 +25,100 @@ My research interests include deep learning, computer vision, image and video an
 * Research Engineer in Damo Research, Alibaba Group, Beijing. July 2019 ~ Present.
 
 <style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
+  .publication-list {
+    list-style: none;
+    padding: 0;
   }
-  td, th {
-    border: 0;
-    padding: 8px;
-    text-align: left;
+
+  .publication-list li {
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .publication-figure {
+    width: 30px;
+    height: 30px;
+    background-color: #ddd;
+    border-radius: 50%;
+    text-align: center;
+    margin-right: 10px;
+  }
+
+  .publication-figure span {
+    line-height: 30px;
+    font-size: 20px;
+    color: #fff;
   }
 </style>
 
 ## Papers
-<table>
-  <tr>
-    <td><img align="left" width="360" height="200" src="data/paper_figure/ddcolor.png"></td>
-    <td>
-      <p><b>DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders</b></p>
-      <p>Xiaoyang Kang, Tao Yang, <b>Wenqi Ouyang</b>, Peiran Ren, Lingzhi Li, Xuansong Xie.</p>
-      <p>Submitted, 2022.</p>
-      <p><a href="https://arxiv.org/abs/2212.11613" target="_blank" rel="noopener">
+<ul class="publication-list">
+  <li>
+    <div class="publication-figure">
+      <span><img align="left" width="240" height="140" src="data/paper_figure/ddcolor.png"></span>
+    </div>
+    <div>
+      <b>DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders</b><br>
+      Xiaoyang Kang, Tao Yang, <b>Wenqi Ouyang</b>, Peiran Ren, Lingzhi Li, Xuansong Xie. <br>
+      Submitted, 2022. <br>
+      <a href="https://arxiv.org/abs/2212.11613" target="_blank" rel="noopener">
 				 <i class="fa fa-file" aria-hidden="true"></i> arXiv </a> 
-      </p>
-    </td>
-  </tr>
-</table>
-
+    </div>
+  </li>
+</ul></ul>
 
 ## Patents
-<table>
-  <tr>
-    <td><img align="left" width="333" height="185" src="data/paper_figure/patent_1.png"></td>
-    <td>
-      <p><b>图像、视频的调色方法、系统、设备及存储介质</b></p>
-      <p><b>欧阳雯琪</b>, 杨涛</p>
-      <p>CN Patent 114,549,674 A, 2022.</p>
-    </td>
-  </tr>
-  <tr>
-    <td><img align="left" width="333" height="185" src="data/paper_figure/patent_2.png"></td>
-    <td>
-      <p><b>视频处理方法及装置</b></p>
-      <p>林宪晖、<b>欧阳雯琪</b>、高占宁、任沛然</p>
-      <p>CN Patent 114,302,175 A, 2022.</p>
-    </td>
-  </tr>
-  <tr>
-    <td><img align="left" width="333" height="185" src="data/paper_figure/patent_3.png"></td>
-    <td>
-      <p><b>视频处理方法及装置</b></p>
-      <p>林宪辉、高占宁、<b>欧阳雯琪</b>、杨涛、任沛然、马菲莹、谢宣松、張磊</p>
-      <p>CN Patent 114,286,126 A, 2022.</p>
-    </td>
-  </tr>
-  <tr>
-    <td><img align="left" width="333" height="185" src="data/paper_figure/patent_4.png"></td>
-    <td>
-      <p><b>图像处理模型训练方法及装置</b></p>
-      <p>郑全龙、曾辉、<b>欧阳雯琪</b></p>
-      <p>CN Patent 114,092,756 A, 2022.</p>
-    </td>
-  </tr>
-  <tr>
-    <td><img align="left" width="333" height="185" src="data/paper_figure/patent_5.png"></td>
-    <td>
-      <p><b>一种视频调色方法、媒体数据处理方法、设备及存储介质</b></p>
-      <p><b>欧阳雯琪</b></p>
-      <p>CN Patent 113,497,954 A, 2021.</p>
-    </td>
-  </tr>
-</table>
-
+<ul class="publication-list">
+  <li>
+    <div class="publication-figure">
+      <span><img align="left" width="240" height="140" src="data/paper_figure/patent_1.png"></span>
+    </div>
+    <div>
+      <b>图像、视频的调色方法、系统、设备及存储介质</b><br>
+      <b>欧阳雯琪</b>, 杨涛。 <br>
+      CN Patent 114,549,674 A, 2022. 
+    </div>
+  </li>
+  <li>
+    <div class="publication-figure">
+      <span><img align="left" width="240" height="140" src="data/paper_figure/patent_2.png"></span>
+    </div>
+    <div>
+      <b>视频处理方法及装置</b><br>
+      林宪晖、<b>欧阳雯琪</b>、高占宁、任沛然。 <br>
+      CN Patent 114,302,175 A, 2022. 
+    </div>
+  </li>
+  <li>
+    <div class="publication-figure">
+      <span><img align="left" width="240" height="140" src="data/paper_figure/patent_3.png"></span>
+    </div>
+    <div>
+      <b>视频处理方法及装置</b><br>
+      林宪辉、高占宁、<b>欧阳雯琪</b>、杨涛、任沛然、马菲莹、谢宣松、張磊。 <br>
+      CN Patent 114,286,126 A, 2022. 
+    </div>
+  </li>
+  <li>
+    <div class="publication-figure">
+      <span><img align="left" width="240" height="140" src="data/paper_figure/patent_4.png"></span>
+    </div>
+    <div>
+      <b>图像处理模型训练方法及装置</b><br>
+      郑全龙、曾辉、<b>欧阳雯琪</b>。 <br>
+      CN Patent 114,092,756 A, 2022. 
+    </div>
+  </li>
+  <li>
+    <div class="publication-figure">
+      <span><img align="left" width="240" height="140" src="data/paper_figure/patent_5.png"></span>
+    </div>
+    <div>
+      <b>一种视频调色方法、媒体数据处理方法、设备及存储介质</b><br>
+      <b>欧阳雯琪</b>。 <br>
+      CN Patent 113,497,954 A, 2021. 
+    </div>
+  </li>
+</ul>
