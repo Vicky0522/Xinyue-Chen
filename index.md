@@ -38,8 +38,8 @@ My research interests include deep learning, computer vision, image and video an
   }
 
   .publication-figure {
-    width: 30px;
-    height: 30px;
+    width: 240px;
+    height: 140px;
     background-color: #ddd;
     border-radius: 50%;
     text-align: center;
@@ -67,7 +67,7 @@ My research interests include deep learning, computer vision, image and video an
 				 <i class="fa fa-file" aria-hidden="true"></i> arXiv </a> 
     </div>
   </li>
-</ul></ul>
+</ul>
 
 ## Patents
 <ul class="publication-list">
