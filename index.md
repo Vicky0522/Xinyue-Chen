@@ -54,6 +54,18 @@ My research interests span several areas, including deep learning, computer visi
 <ul class="publication-list">
   <li>
     <div class="publication-figure">
+      <img align="left" width="360" height="200" src="data/paper_figure/rsfnet.png">
+    </div>
+    <div>
+      <b>RSFNet: A White-Box Image Retouching Approach using Region-Specific Color Filters</b><br>
+      <b>Wenqi Ouyang</b>, Yi Dong, Peiran Ren, Xiaoyang Kang, Xin Xu, Xuansong Xie
+      Submitted, 2023. <br>
+      <a href="https://arxiv.org/abs/2303.08682" target="_blank" rel="noopener">
+				 <i class="fa fa-file" aria-hidden="true"></i> arXiv </a> 
+    </div>
+  </li>
+  <li>
+    <div class="publication-figure">
       <img align="left" width="360" height="200" src="data/paper_figure/ddcolor.png">
     </div>
     <div>
