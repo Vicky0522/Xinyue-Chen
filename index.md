@@ -85,8 +85,8 @@ My research interests span several areas, including deep learning, computer visi
       <img align="left" width="360" height="200" src="data/paper_figure/patent_1.png">
     </div>
     <div>
-      <b>图像、视频的调色方法、系统、设备及存储介质</b><br>
-      <b>欧阳雯琪</b>, 杨涛。 <br>
+      <b>Methods, systems, devices, and storage media for color grading of images and videos</b><br>
+      <b>Wenqi Ouyang</b>, Tao Yang. <br>
       CN Patent 114,549,674 A, 2022. 
     </div>
   </li>
@@ -95,8 +95,8 @@ My research interests span several areas, including deep learning, computer visi
       <img align="left" width="360" height="200" src="data/paper_figure/patent_2.png">
     </div>
     <div>
-      <b>视频处理方法及装置</b><br>
-      林宪晖、<b>欧阳雯琪</b>、高占宁、任沛然。 <br>
+      <b>Methods and apparatus for video processing</b><br>
+      Xianhui Lin, Zhanning Gao, <b>Wenqi Ouyang</b>, Peiran Ren. <br>
       CN Patent 114,302,175 A, 2022. 
     </div>
   </li>
@@ -105,8 +105,8 @@ My research interests span several areas, including deep learning, computer visi
       <img align="left" width="360" height="200" src="data/paper_figure/patent_3.png">
     </div>
     <div>
-      <b>视频处理方法及装置</b><br>
-      林宪辉、高占宁、<b>欧阳雯琪</b>、杨涛、任沛然、马菲莹、谢宣松、張磊。 <br>
+      <b>Methods and apparatus for video processing</b><br>
+      Xianhui Lin, Zhanning Gao, <b>Wenqi Ouyang</b>, Tao Yang, Peiran Ren, Feiying Ma, Xuansong Xie, Lei Zhang. <br>
       CN Patent 114,286,126 A, 2022. 
     </div>
   </li>
@@ -115,8 +115,8 @@ My research interests span several areas, including deep learning, computer visi
       <img align="left" width="360" height="200" src="data/paper_figure/patent_4.png">
     </div>
     <div>
-      <b>图像处理模型训练方法及装置</b><br>
-      郑全龙、曾辉、<b>欧阳雯琪</b>。 <br>
+      <b>Methods and apparatus for training image processing model</b><br>
+      Quanlong Zheng, Hui Zeng, <b>Wenqi Ouyang</b>. <br>
       CN Patent 114,092,756 A, 2022. 
     </div>
   </li>
@@ -125,8 +125,8 @@ My research interests span several areas, including deep learning, computer visi
       <img align="left" width="360" height="200" src="data/paper_figure/patent_5.png">
     </div>
     <div>
-      <b>一种视频调色方法、媒体数据处理方法、设备及存储介质</b><br>
-      <b>欧阳雯琪</b>。 <br>
+      <b>A method for video color grading, media data processing, device, and storage medium</b><br>
+      <b>欧阳雯琪</b>. <br>
       CN Patent 113,497,954 A, 2021. 
     </div>
   </li>
