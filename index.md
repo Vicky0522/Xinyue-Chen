@@ -126,7 +126,7 @@ My research interests span several areas, including deep learning, computer visi
     </div>
     <div>
       <b>A method for video color grading, media data processing, device, and storage medium</b><br>
-      <b>欧阳雯琪</b>. <br>
+      <b>Wenqi Ouyang</b>. <br>
       CN Patent 113,497,954 A, 2021. 
     </div>
   </li>
