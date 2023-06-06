@@ -58,7 +58,7 @@ My research interests span several areas, including deep learning, computer visi
     </div>
     <div>
       <b>RSFNet: A White-Box Image Retouching Approach using Region-Specific Color Filters</b><br>
-      <b>Wenqi Ouyang</b>, Yi Dong, Peiran Ren, Xiaoyang Kang, Xin Xu, Xuansong Xie
+      <b>Wenqi Ouyang</b>, Yi Dong, Peiran Ren, Xiaoyang Kang, Xin Xu, Xuansong Xie. <br>
       Submitted, 2023. <br>
       <a href="https://arxiv.org/abs/2303.08682" target="_blank" rel="noopener">
 				 <i class="fa fa-file" aria-hidden="true"></i> arXiv </a> 
@@ -87,7 +87,7 @@ My research interests span several areas, including deep learning, computer visi
     <div>
       <b>Methods, systems, devices, and storage media for color grading of images and videos</b><br>
       <b>Wenqi Ouyang</b>, Tao Yang. <br>
-      CN Patent 114,549,674 A, 2022. 
+      CN Patent 114,549,674 A, 2022. <br>
     </div>
   </li>
   <li>
@@ -97,7 +97,7 @@ My research interests span several areas, including deep learning, computer visi
     <div>
       <b>Methods and apparatus for video processing</b><br>
       Xianhui Lin, Zhanning Gao, <b>Wenqi Ouyang</b>, Peiran Ren. <br>
-      CN Patent 114,302,175 A, 2022. 
+      CN Patent 114,302,175 A, 2022. <br>
     </div>
   </li>
   <li>
@@ -107,7 +107,7 @@ My research interests span several areas, including deep learning, computer visi
     <div>
       <b>Methods and apparatus for video processing</b><br>
       Xianhui Lin, Zhanning Gao, <b>Wenqi Ouyang</b>, Tao Yang, Peiran Ren, Feiying Ma, Xuansong Xie, Lei Zhang. <br>
-      CN Patent 114,286,126 A, 2022. 
+      CN Patent 114,286,126 A, 2022. <br>
     </div>
   </li>
   <li>
@@ -117,7 +117,7 @@ My research interests span several areas, including deep learning, computer visi
     <div>
       <b>Methods and apparatus for training image processing model</b><br>
       Quanlong Zheng, Hui Zeng, <b>Wenqi Ouyang</b>. <br>
-      CN Patent 114,092,756 A, 2022. 
+      CN Patent 114,092,756 A, 2022. <br> 
     </div>
   </li>
   <li>
@@ -127,7 +127,7 @@ My research interests span several areas, including deep learning, computer visi
     <div>
       <b>A method for video color grading, media data processing, device, and storage medium</b><br>
       <b>Wenqi Ouyang</b>. <br>
-      CN Patent 113,497,954 A, 2021. 
+      CN Patent 113,497,954 A, 2021. <br>
     </div>
   </li>
 </ul>
