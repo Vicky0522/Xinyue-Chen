@@ -30,23 +30,22 @@ My research interests span several areas, including deep learning, computer visi
 
   .publication-list li {
     display: flex;
-    align-items: center;
+    align-items: left;
     padding: 10px 0;
     border-bottom: none;
   }
 
   .publication-figure {
-    width: 360px;
-    height: 200px;
+    width: 300px;
+    height: 150px;
     background-color: #ddd;
-    border-radius: 50%;
-    text-align: center;
+    text-align: left;
     margin-right: 10px;
   }
 	
   .publication-figure img {
-    max-width: 100%;
-    max-height: 100%;
+    width: 300px;
+    height: 150px;
   }
 </style>
 
@@ -54,7 +53,7 @@ My research interests span several areas, including deep learning, computer visi
 <ul class="publication-list">
   <li>
     <div class="publication-figure">
-      <img align="left" width="360" height="200" src="data/paper_figure/rsfnet.png">
+      <img align="left" width="300" height="150" src="data/paper_figure/rsfnet.png">
     </div>
     <div>
       <b>RSFNet: A White-Box Image Retouching Approach using Region-Specific Color Filters</b><br>
@@ -66,7 +65,7 @@ My research interests span several areas, including deep learning, computer visi
   </li>
   <li>
     <div class="publication-figure">
-      <img align="left" width="360" height="200" src="data/paper_figure/ddcolor.png">
+      <img align="left" width="300" height="150" src="data/paper_figure/ddcolor.png">
     </div>
     <div>
       <b>DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders</b><br>
@@ -81,9 +80,6 @@ My research interests span several areas, including deep learning, computer visi
 ## Patents
 <ul class="publication-list">
   <li>
-    <div class="publication-figure">
-      <img align="left" width="360" height="200" src="data/paper_figure/patent_1.png">
-    </div>
     <div>
       <b>Methods, systems, devices, and storage media for color grading of images and videos</b><br>
       <b>Wenqi Ouyang</b>, Tao Yang. <br>
@@ -91,9 +87,6 @@ My research interests span several areas, including deep learning, computer visi
     </div>
   </li>
   <li>
-    <div class="publication-figure">
-      <img align="left" width="360" height="200" src="data/paper_figure/patent_2.png">
-    </div>
     <div>
       <b>Methods and apparatus for video processing</b><br>
       Xianhui Lin, Zhanning Gao, <b>Wenqi Ouyang</b>, Peiran Ren. <br>
@@ -101,9 +94,6 @@ My research interests span several areas, including deep learning, computer visi
     </div>
   </li>
   <li>
-    <div class="publication-figure">
-      <img align="left" width="360" height="200" src="data/paper_figure/patent_3.png">
-    </div>
     <div>
       <b>Methods and apparatus for video processing</b><br>
       Xianhui Lin, Zhanning Gao, <b>Wenqi Ouyang</b>, Tao Yang, Peiran Ren, Feiying Ma, Xuansong Xie, Lei Zhang. <br>
@@ -111,9 +101,6 @@ My research interests span several areas, including deep learning, computer visi
     </div>
   </li>
   <li>
-    <div class="publication-figure">
-      <img align="left" width="360" height="200" src="data/paper_figure/patent_4.png">
-    </div>
     <div>
       <b>Methods and apparatus for training image processing model</b><br>
       Quanlong Zheng, Hui Zeng, <b>Wenqi Ouyang</b>. <br>
@@ -121,9 +108,6 @@ My research interests span several areas, including deep learning, computer visi
     </div>
   </li>
   <li>
-    <div class="publication-figure">
-      <img align="left" width="360" height="200" src="data/paper_figure/patent_5.png">
-    </div>
     <div>
       <b>A method for video color grading, media data processing, device, and storage medium</b><br>
       <b>Wenqi Ouyang</b>. <br>
