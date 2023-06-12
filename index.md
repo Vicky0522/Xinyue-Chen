@@ -46,7 +46,7 @@ My research interests span several areas, including deep learning, computer visi
   }
 </style>
 
-## Papers
+## Publications
 <ul class="publication-list">
   <li>
     <div class="publication-figure">
