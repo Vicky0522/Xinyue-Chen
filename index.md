@@ -8,7 +8,7 @@
 
 
 ## About me
-I am a senior research engineer at Damo Research, Alibaba Group, where I focus on researching video enhancement and editing. Prior to joining Alibaba, I earned my M.Sc. degree in computer science and technology from Tsinghua University, where I was advised by [Kun Xu](https://cg.cs.tsinghua.edu.cn/people/~kun/). I also hold a B.Sc. in fundamental physics and mathematics from Tsinghua University.
+I am a senior research engineer at Damo Academy, Alibaba Group, where I focus on researching video enhancement and editing. Prior to joining Alibaba, I earned my M.Sc. degree in computer science and technology from Tsinghua University, where I was advised by [Kun Xu](https://cg.cs.tsinghua.edu.cn/people/~kun/). I also hold a B.Sc. in fundamental physics and mathematics from Tsinghua University.
 
 My research interests span several areas, including deep learning, computer vision, and image and video analysis and enhancement. I am also interested in exploring the applications of natural language processing in multimedia analysis.
 
@@ -16,11 +16,12 @@ My research interests span several areas, including deep learning, computer visi
 
 ## Education
 * B. Sc. in Fundamental Physics and Mathematics, Tsinghua University, Beijing. September 2012 ~ July 2016.
+* B. BM. (dual-degree) in Business Administration in Economics and Management. September 2013 ~ July 2016.
 * M. Sc. in Computer Science and Technology, Tsinghua University, Beijing. September 2016 ~ July 2019.
 
 ## Working Experience
 * Research Intern in ByteDance AI Lab, Beijing. July 2017 ~ Septempber 2017.
-* Research Engineer in Damo Research, Alibaba Group, Beijing. July 2019 ~ Present.
+* Research Engineer in Damo Academy, Alibaba Group, Beijing. July 2019 ~ Present.
 
 <style>
   .publication-list {
@@ -69,6 +70,8 @@ My research interests span several areas, including deep learning, computer visi
       Submitted, 2022. <br>
       <a href="https://arxiv.org/abs/2212.11613" target="_blank" rel="noopener">
 				 <i class="fa fa-file" aria-hidden="true"></i> arXiv </a> 
+      <a href="https://github.com/piddnad/DDColor" target="_blank" rel="noopener">
+				 <i class="fa fa-file" aria-hidden="true"></i>  Code </a> 
     </div>
   </li>
 </ul>
