@@ -29,7 +29,7 @@ My research interests span several areas, including deep learning, computer visi
   }
 
   .publication-list li {
-    display: flex;
+    display: none;
     align-items: left;
     padding: 10px 0;
     border-bottom: none;
