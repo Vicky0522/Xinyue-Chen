@@ -53,9 +53,6 @@ My research interests span several areas, including deep learning, computer visi
 ## Papers
 <ul class="publication-list">
   <li>
-    <div class="publication-figure">
-      <img align="left" width="360" height="200" src="data/paper_figure/rsfnet.png">
-    </div>
     <div>
       <b>RSFNet: A White-Box Image Retouching Approach using Region-Specific Color Filters</b><br>
       <b>Wenqi Ouyang</b>, Yi Dong, Peiran Ren, Xiaoyang Kang, Xin Xu, Xuansong Xie. <br>
@@ -65,9 +62,6 @@ My research interests span several areas, including deep learning, computer visi
     </div>
   </li>
   <li>
-    <div class="publication-figure">
-      <img align="left" width="360" height="200" src="data/paper_figure/ddcolor.png">
-    </div>
     <div>
       <b>DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders</b><br>
       Xiaoyang Kang, Tao Yang, <b>Wenqi Ouyang</b>, Peiran Ren, Lingzhi Li, Xuansong Xie. <br>
