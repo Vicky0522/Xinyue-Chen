@@ -29,23 +29,19 @@ My research interests span several areas, including deep learning, computer visi
   }
 
   .publication-list li {
-    display: none;
+    display: flex;
     align-items: left;
     padding: 10px 0;
     border-bottom: none;
   }
 
   .publication-figure {
-    width: 300px;
-    height: 150px;
     background-color: #ddd;
     text-align: left;
     margin-right: 10px;
   }
 	
   .publication-figure img {
-    width: 300px;
-    height: 150px;
   }
 </style>
 
