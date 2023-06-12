@@ -53,7 +53,7 @@ My research interests span several areas, including deep learning, computer visi
 <ul class="publication-list">
   <li>
     <div class="publication-figure">
-      <img align="left" width="300" height="150" src="data/paper_figure/rsfnet.png">
+      <img align="left" width="300" height="150" src="data/paper_figure/rsfnet.jpg">
     </div>
     <div>
       <b>RSFNet: A White-Box Image Retouching Approach using Region-Specific Color Filters</b><br>
