@@ -55,7 +55,7 @@ My research interests span several areas, including deep learning, computer visi
     <div>
       <b>RSFNet: A White-Box Image Retouching Approach using Region-Specific Color Filters</b><br>
       <b>Wenqi Ouyang</b>, Yi Dong, Peiran Ren, Xiaoyang Kang, Xin Xu, Xuansong Xie. <br>
-      Submitted, 2023. <br>
+      <b><em>International Conference on Computer Vision (ICCV, 2023)</em></b><br>
       <a href="https://arxiv.org/abs/2303.08682" target="_blank" rel="noopener">
 				 <i class="fa fa-file" aria-hidden="true"></i> arXiv </a> 
     </div>
@@ -67,7 +67,7 @@ My research interests span several areas, including deep learning, computer visi
     <div>
       <b>DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders</b><br>
       Xiaoyang Kang, Tao Yang, <b>Wenqi Ouyang</b>, Peiran Ren, Lingzhi Li, Xuansong Xie. <br>
-      Submitted, 2022. <br>
+      <b><em>International Conference on Computer Vision (ICCV, 2023)</em></b><br>
       <a href="https://arxiv.org/abs/2212.11613" target="_blank" rel="noopener">
 				 <i class="fa fa-file" aria-hidden="true"></i> arXiv </a> 
       <a href="https://github.com/piddnad/DDColor" target="_blank" rel="noopener">
