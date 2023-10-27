@@ -54,7 +54,7 @@ My research interests span several areas, including deep learning, computer visi
     </div>
     <div>
       <b>RSFNet: A White-Box Image Retouching Approach using Region-Specific Color Filters</b><br>
-      <b>Wenqi Ouyang</b>, Yi Dong, Peiran Ren, Xiaoyang Kang, Xin Xu, Xuansong Xie. <br>
+      <b>Wenqi Ouyang</b>, Yi Dong, <a href="https://scholar.google.com/citations?user=x5dEuxsAAAAJ&hl=en"> Peiran Ren </a>, <a href="https://piddnad.github.io/xiaoyangkang"> Xiaoyang Kang </a>, Xin Xu, <a href="https://scholar.google.com/citations?user=M0Ei1zkAAAAJ&hl=en"> Xuansong Xie </a>. <br>
       <b><em>International Conference on Computer Vision (ICCV, 2023)</em></b><br>
       <a href="https://arxiv.org/abs/2303.08682" target="_blank" rel="noopener">
 				 <i class="fa fa-file" aria-hidden="true"></i> arXiv </a> 
@@ -68,7 +68,7 @@ My research interests span several areas, including deep learning, computer visi
     </div>
     <div>
       <b>DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders</b><br>
-      Xiaoyang Kang, Tao Yang, <b>Wenqi Ouyang</b>, Peiran Ren, Lingzhi Li, Xuansong Xie. <br>
+      <a href="https://piddnad.github.io/xiaoyangkang"> Xiaoyang Kang </a>, <a href="https://cg.cs.tsinghua.edu.cn/people/~tyang/"> Tao Yang </a>, <b>Wenqi Ouyang</b>, <a href="https://scholar.google.com/citations?user=x5dEuxsAAAAJ&hl=en"> Peiran Ren </a>, <a href="https://lingzhili.com/"> Lingzhi Li </a>, <a href="https://scholar.google.com/citations?user=M0Ei1zkAAAAJ&hl=en"> Xuansong Xie </a>. <br>
       <b><em>International Conference on Computer Vision (ICCV, 2023)</em></b><br>
       <a href="https://arxiv.org/abs/2212.11613" target="_blank" rel="noopener">
 				 <i class="fa fa-file" aria-hidden="true"></i> arXiv </a> 
@@ -83,28 +83,28 @@ My research interests span several areas, including deep learning, computer visi
   <li>
     <div>
       <b>Methods, systems, devices, and storage media for color grading of images and videos</b><br>
-      <b>Wenqi Ouyang</b>, Tao Yang. <br>
+      <b>Wenqi Ouyang</b>, <a href="https://cg.cs.tsinghua.edu.cn/people/~tyang/"> Tao Yang </a>. <br>
       CN Patent 114,549,674 A, 2022. <br>
     </div>
   </li>
   <li>
     <div>
       <b>Methods and apparatus for video processing</b><br>
-      Xianhui Lin, Zhanning Gao, <b>Wenqi Ouyang</b>, Peiran Ren. <br>
+      <a href="https://scholar.google.com/citations?user=wLTXeNwAAAAJ&hl=fr"> Xianhui Lin </a>, <a href="https://scholar.google.com/citations?user=CF2CM2UAAAAJ&hl=zh-CN"> Zhanning Gao </a>, <b>Wenqi Ouyang</b>, <a href="https://scholar.google.com/citations?user=x5dEuxsAAAAJ&hl=en"> Peiran Ren </a>. <br>
       CN Patent 114,302,175 A, 2022. <br>
     </div>
   </li>
   <li>
     <div>
       <b>Methods and apparatus for video processing</b><br>
-      Xianhui Lin, Zhanning Gao, <b>Wenqi Ouyang</b>, Tao Yang, Peiran Ren, Feiying Ma, Xuansong Xie, Lei Zhang. <br>
+      <a href="https://scholar.google.com/citations?user=wLTXeNwAAAAJ&hl=fr"> Xianhui Lin </a>, <a href="https://scholar.google.com/citations?user=CF2CM2UAAAAJ&hl=zh-CN"> Zhanning Gao </a>, <b>Wenqi Ouyang</b>, <a href="https://cg.cs.tsinghua.edu.cn/people/~tyang/"> Tao Yang </a>, <a href="https://scholar.google.com/citations?user=x5dEuxsAAAAJ&hl=en"> Peiran Ren </a>, Feiying Ma, <a href="https://scholar.google.com/citations?user=M0Ei1zkAAAAJ&hl=en"> Xuansong Xie </a>, <a href="https://www4.comp.polyu.edu.hk/~cslzhang/"> Lei Zhang </a>. <br>
       CN Patent 114,286,126 A, 2022. <br>
     </div>
   </li>
   <li>
     <div>
       <b>Methods and apparatus for training image processing model</b><br>
-      Quanlong Zheng, Hui Zeng, <b>Wenqi Ouyang</b>. <br>
+      <a href="https://quanlzheng.github.io/"> Quanlong Zheng </a>, <a href="https://huizeng.github.io/"> Hui Zeng </a>, <b>Wenqi Ouyang</b>. <br>
       CN Patent 114,092,756 A, 2022. <br> 
     </div>
   </li>
