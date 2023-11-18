@@ -8,9 +8,9 @@
 
 
 ## About me
-I am a senior research engineer at Damo Academy, Alibaba Group, where I focus on researching video enhancement and editing. Prior to joining Alibaba, I earned my M.Sc. degree in computer science and technology from Tsinghua University, where I was advised by [Kun Xu](https://cg.cs.tsinghua.edu.cn/people/~kun/). I also hold a B.Sc. in fundamental physics and mathematics from Tsinghua University.
+I am a senior research engineer at Damo Academy, Alibaba Group, where I focus on researching video enhancement and editing, under the guidance of [Peiran Ren](https://scholar.google.com/citations?user=x5dEuxsAAAAJ&hl=en), [Xuansong Xie](https://scholar.google.com/citations?user=M0Ei1zkAAAAJ&hl=en) and [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/). Prior to joining Alibaba, I earned my M.Sc. degree in computer science and technology from Tsinghua University, advised by [Kun Xu](https://cg.cs.tsinghua.edu.cn/people/~kun/). I also hold a B.Sc. in fundamental physics and mathematics from Tsinghua University.
 
-My research interests span several areas, including deep learning, computer vision, and image and video analysis and enhancement. I am also interested in exploring the applications of natural language processing in multimedia analysis.
+My research interests span several areas, including deep learning, computer vision, and image and video generation and editing. I am also interested in exploring the applications of natural language processing in multimedia analysis.
 
 <br>
 
