@@ -54,7 +54,7 @@ My research interests span several areas, including deep learning, computer visi
     </div>
     <div>
       <b>RSFNet: A White-Box Image Retouching Approach using Region-Specific Color Filters</b><br>
-      <b>Wenqi Ouyang</b>, Yi Dong, <a href="https://scholar.google.com/citations?user=x5dEuxsAAAAJ&hl=en"> Peiran Ren </a>, <a href="https://piddnad.github.io/xiaoyangkang"> Xiaoyang Kang </a>, Xin Xu, <a href="https://scholar.google.com/citations?user=M0Ei1zkAAAAJ&hl=en"> Xuansong Xie </a>. <br>
+      <b>Wenqi Ouyang</b>, Yi Dong, <a href="https://piddnad.github.io/xiaoyangkang"> Xiaoyang Kang </a>, <a href="https://scholar.google.com/citations?user=x5dEuxsAAAAJ&hl=en"> Peiran Ren </a>, Xin Xu, <a href="https://scholar.google.com/citations?user=M0Ei1zkAAAAJ&hl=en"> Xuansong Xie </a>. <br>
       <b><em>International Conference on Computer Vision (ICCV, 2023)</em></b><br>
       <a href="https://arxiv.org/abs/2303.08682" target="_blank" rel="noopener">
 				 <i class="fa fa-file" aria-hidden="true"></i> arXiv </a> 
