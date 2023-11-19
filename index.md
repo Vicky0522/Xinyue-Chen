@@ -20,7 +20,8 @@ My research interests span several areas, including deep learning, computer visi
 
 ## Working Experience
 * Research Intern in ByteDance AI Lab, Beijing. July 2017 ~ Septempber 2017.
-* Research Engineer in Damo Academy, Alibaba Group, Beijing. July 2019 ~ Present.
+* Research Engineer in Damo Academy, Alibaba Group, Beijing. July 2019 ~ November 2023.
+* Research Associate at MMLab@NTU, Singapore. November 2023 ~ Present.
 
 <style>
   .publication-list {
