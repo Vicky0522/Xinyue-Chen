@@ -82,6 +82,13 @@ My research interests span several areas, including deep learning, computer visi
 <ul class="publication-list">
   <li>
     <div>
+      <b>Methods, systems, and electronic devices for image processing</b><br>
+      Yi Dong, Yuxi Wang, Ruoxi Fan, <b>Wenqi Ouyang</b>, <a href="https://scholar.google.com.sg/citations?user=EA2T_lwAAAAJ&hl=en"> Zhiqi Shen </a>, <a href="https://scholar.google.com/citations?user=x5dEuxsAAAAJ&hl=en"> Peiran Ren </a>, <a href="https://scholar.google.com/citations?user=M0Ei1zkAAAAJ&hl=en"> Xuansong Xie </a>. <br>
+      CN Patent 117,788,352 A, 2023. <br>
+    </div>
+  </li>
+  <li>
+    <div>
       <b>Methods, systems, devices, and storage media for color grading of images and videos</b><br>
       <b>Wenqi Ouyang</b>, <a href="https://cg.cs.tsinghua.edu.cn/people/~tyang/"> Tao Yang </a>. <br>
       CN Patent 114,549,674 A, 2022. <br>
