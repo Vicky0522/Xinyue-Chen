@@ -44,6 +44,11 @@ My research interests span several areas, including deep learning, computer visi
 	
   .publication-figure img {
   }
+  
+  .paper-details {
+      flex: 1;
+      text-align: left;
+  }
 </style>
 
 ## Publications
@@ -52,7 +57,7 @@ My research interests span several areas, including deep learning, computer visi
     <div class="publication-figure">
       <img align="left" width="300" height="150" src="data/paper_figure/i2vedit.png">
     </div>
-    <div>
+    <div class="paper-details">
       <b>I2VEdit: First-Frame-Guided Video Editing via Image-to-Video Diffusion Models</b><br>
       <b>Wenqi Ouyang</b>, Yi Dong, <a href="https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en"> Lei Yang </a>, <a href="https://jianlou.github.io/"> Jianlou Si </a>, <a href="https://xingangpan.github.io/"> Xingang Pan </a>. <br>
       <b><em>SIGGRAPH Asia (Conference Track), 2024</em></b><br>
@@ -66,7 +71,7 @@ My research interests span several areas, including deep learning, computer visi
     <div class="publication-figure">
       <img align="left" width="300" height="150" src="data/paper_figure/rsfnet.png">
     </div>
-    <div>
+    <div class="paper-details">
       <b>RSFNet: A White-Box Image Retouching Approach using Region-Specific Color Filters</b><br>
       <b>Wenqi Ouyang</b>, Yi Dong, <a href="https://piddnad.github.io/xiaoyangkang"> Xiaoyang Kang </a>, <a href="https://scholar.google.com/citations?user=x5dEuxsAAAAJ&hl=en"> Peiran Ren </a>, Xin Xu, <a href="https://scholar.google.com/citations?user=M0Ei1zkAAAAJ&hl=en"> Xuansong Xie </a>. <br>
       <b><em>International Conference on Computer Vision (ICCV, 2023)</em></b><br>
@@ -80,7 +85,7 @@ My research interests span several areas, including deep learning, computer visi
     <div class="publication-figure">
       <img align="left" width="300" height="150" src="data/paper_figure/ddcolor.png">
     </div>
-    <div>
+    <div class="paper-details">
       <b>DDColor: Towards Photo-Realistic and Semantic-Aware Image Colorization via Dual Decoders</b><br>
       <a href="https://piddnad.github.io/xiaoyangkang"> Xiaoyang Kang </a>, <a href="https://cg.cs.tsinghua.edu.cn/people/~tyang/"> Tao Yang </a>, <b>Wenqi Ouyang</b>, <a href="https://scholar.google.com/citations?user=x5dEuxsAAAAJ&hl=en"> Peiran Ren </a>, <a href="https://lingzhili.com/"> Lingzhi Li </a>, <a href="https://scholar.google.com/citations?user=M0Ei1zkAAAAJ&hl=en"> Xuansong Xie </a>. <br>
       <b><em>International Conference on Computer Vision (ICCV, 2023)</em></b><br>
