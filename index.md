@@ -50,6 +50,20 @@ My research interests span several areas, including deep learning, computer visi
 <ul class="publication-list">
   <li>
     <div class="publication-figure">
+      <img align="left" width="300" height="150" src="data/paper_figure/i2vedit.png">
+    </div>
+    <div>
+      <b>I2VEdit: First-Frame-Guided Video Editing via Image-to-Video Diffusion Models</b><br>
+      <b>Wenqi Ouyang</b>, Yi Dong, <a href="https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en"> Lei Yang </a>, <a href="https://jianlou.github.io/"> Jianlou Si </a>, <a href="https://xingangpan.github.io/"> Xingang Pan </a>. <br>
+      <b><em>SIGGRAPH Asia (Conference Track), 2024</em></b><br>
+      <a href="https://arxiv.org/abs/2405.16537" target="_blank" rel="opener">
+				 <i class="fa fa-file" aria-hidden="true"></i> arXiv </a> 
+      <a href="https://i2vedit.github.io/" target="_blank" rel="noopener">
+				 <i class="fa fa-file" aria-hidden="true"></i>  Website </a> 
+    </div>
+  </li>
+  <li>
+    <div class="publication-figure">
       <img align="left" width="300" height="150" src="data/paper_figure/rsfnet.png">
     </div>
     <div>
