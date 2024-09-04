@@ -50,7 +50,7 @@ My research interests span several areas, including deep learning, computer visi
 <ul class="publication-list">
   <li>
     <div class="publication-figure">
-      <img align="left" width="300" height="150" src="data/paper_figure/i2vedit.png">
+      <img align="left" width="280" height="150" src="data/paper_figure/i2vedit.png">
     </div>
     <div>
       <b>I2VEdit: First-Frame-Guided Video Editing via Image-to-Video Diffusion Models</b><br>
