@@ -62,9 +62,11 @@ My research interests span several areas, including deep learning, computer visi
       <b>Wenqi Ouyang</b>, Yi Dong, <a href="https://scholar.google.com.hk/citations?user=jZH2IPYAAAAJ&hl=en" target="_blank" rel="opener">Lei Yang</a>, <a href="https://jianlou.github.io/" target="_blank" rel="opener">Jianlou Si</a>, <a href="https://xingangpan.github.io/" target="_blank" rel="opener">Xingang Pan</a>. <br>
       <b><em>SIGGRAPH Asia (Conference Track), 2024</em></b><br>
       <a href="https://arxiv.org/abs/2405.16537" target="_blank" rel="opener">
-				 <i class="fa fa-file" aria-hidden="true"></i> arXiv </a> 
+				 <i class="fa fa-file" aria-hidden="true"></i> arXiv </a> |
       <a href="https://i2vedit.github.io/" target="_blank" rel="noopener">
-				 <i class="fa fa-file" aria-hidden="true"></i>  Website </a> 
+				 <i class="fa fa-file" aria-hidden="true"></i> Homepage </a> |
+      <a href="https://github.com/Vicky0522/I2VEdit" target="_blank" rel="noopener">
+				 <i class="fa fa-file" aria-hidden="true"></i>  Code </a>
     </div>
   </li>
   <li>
@@ -76,7 +78,7 @@ My research interests span several areas, including deep learning, computer visi
       <b>Wenqi Ouyang</b>, Yi Dong, <a href="https://piddnad.github.io/xiaoyangkang" target="_blank" rel="opener">Xiaoyang Kang</a>, <a href="https://scholar.google.com/citations?user=x5dEuxsAAAAJ&hl=en" target="_blank" rel="opener">Peiran Ren</a>, Xin Xu, <a href="https://scholar.google.com/citations?user=M0Ei1zkAAAAJ&hl=en" target="_blank" rel="opener">Xuansong Xie</a>. <br>
       <b><em>International Conference on Computer Vision (ICCV, 2023)</em></b><br>
       <a href="https://arxiv.org/abs/2303.08682" target="_blank" rel="noopener">
-				 <i class="fa fa-file" aria-hidden="true"></i> arXiv </a> 
+				 <i class="fa fa-file" aria-hidden="true"></i> arXiv </a> |
       <a href="https://github.com/Vicky0522/RSFNet" target="_blank" rel="noopener">
 				 <i class="fa fa-file" aria-hidden="true"></i>  Code </a> 
     </div>
@@ -90,7 +92,7 @@ My research interests span several areas, including deep learning, computer visi
       <a href="https://piddnad.github.io/xiaoyangkang" target="_blank" rel="opener">Xiaoyang Kang</a>, <a href="https://cg.cs.tsinghua.edu.cn/people/~tyang/" target="_blank" rel="opener">Tao Yang</a>, <b>Wenqi Ouyang</b>, <a href="https://scholar.google.com/citations?user=x5dEuxsAAAAJ&hl=en" target="_blank" rel="opener">Peiran Ren</a>, <a href="https://lingzhili.com/" target="_blank" rel="opener">Lingzhi Li</a>, <a href="https://scholar.google.com/citations?user=M0Ei1zkAAAAJ&hl=en" target="_blank" rel="opener">Xuansong Xie</a>. <br>
       <b><em>International Conference on Computer Vision (ICCV, 2023)</em></b><br>
       <a href="https://arxiv.org/abs/2212.11613" target="_blank" rel="noopener">
-				 <i class="fa fa-file" aria-hidden="true"></i> arXiv </a> 
+				 <i class="fa fa-file" aria-hidden="true"></i> arXiv </a> |
       <a href="https://github.com/piddnad/DDColor" target="_blank" rel="noopener">
 				 <i class="fa fa-file" aria-hidden="true"></i>  Code </a> 
     </div>
